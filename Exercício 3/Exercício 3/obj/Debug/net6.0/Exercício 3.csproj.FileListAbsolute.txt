@@ -1,0 +1,28 @@
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.exe
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.deps.json
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.runtimeconfig.json
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.dll
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.pdb
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.AssemblyInfo.cs
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.dll
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\refint\Exercício 3.dll
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.pdb
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.genruntimeconfig.cache
+C:\Users\Davizin\Documents\SW\Exercício 3\Exercício 3\obj\Debug\net6.0\ref\Exercício 3.dll
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.exe
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.deps.json
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.runtimeconfig.json
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.dll
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\bin\Debug\net6.0\Exercício 3.pdb
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.AssemblyInfo.cs
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.dll
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\refint\Exercício 3.dll
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.pdb
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\Exercício 3.genruntimeconfig.cache
+C:\Users\seven\OneDrive\Área de Trabalho\SW-Exercicios\Exercício 3\Exercício 3\obj\Debug\net6.0\ref\Exercício 3.dll
