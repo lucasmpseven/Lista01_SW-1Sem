@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DhWIeooJjn2/q7Xa966kZChNB4ulsau0RjMS8citDsSOYl8saxp4+5Zd7McQrhFvBYzZo9AWoO/hUK7u6exytA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seven\\OneDrive\\Área de Trabalho\\Lista01_SW-1_2Bim-main\\Exercício 7\\Exercício 7\\Exercício 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seven\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\seven\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\seven\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\seven\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
